@@ -1,0 +1,18 @@
+Up = NORTE
+Left = OESTE
+Down = SUR
+Right = ESTE
+
+W = NORTE
+A = OESTE
+S = SUR
+D = ESTE
+
+R = REINICIAR
+r = REINICIAR
+U = DESHACER
+u = DESHACER
+H = PISTA
+h = PISTA
+
+Escape = SALIR
